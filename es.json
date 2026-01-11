@@ -35,5 +35,71 @@
   "previous": "Anterior",
   "back": "Atrás",
   "close": "Cerrar",
-  "open": "Abrir"
+  "open": "Abrir",
+  "get_started_today": "Create my store",
+	"get_started": "Create store",
+	"hero_items": {
+		"sell_your_creations": "Sell your creations",
+		"sell_your_creations_description": "Exploit your personal brand and sell your creations.",
+		"sell_your_merchandise": "Sell your merchandise",
+		"sell_your_merchandise_description": "The best option to sell your merchandise to your fans.",
+		"sell_your_products": "Sell your products",
+		"sell_your_products_description": "Ideal for selling your products and for dropshipping.",
+		"sell_your_tickets": "Sell your tickets",
+		"sell_your_tickets_description": "Ideal for selling tickets to your events and concerts.",
+		"reach_a_global_audience": "Reach a global audience",
+		"visit_store": "Visit Store"
+	},
+	"meet_woowmi": {
+		"title": "Meet Woowmi",
+		"description": "Discover Woowmi, the ultimate platform to create your personal online store effortlessly. No design skills or technical expertise required. Start selling your products and services today with ease and confidence."
+	},
+	"sell_steps": {
+		"create_your_store": "Create your store",
+		"customize_your_store": "Customize your store",
+		"add_your_products": "Add your products",
+		"share_and_start_selling": "Share and start selling",
+		"in": "in",
+		"simple_steps": "simple steps"
+	},
+	"why_woowmi": "Why Woowmi?",
+	"why_woowmi_items": {
+		"item_1": "No need to hire anyone to design your store.",
+		"item_2": "Forget about using complex platforms to create your store.",
+		"item_3": "Save money on domains, servers, and maintenance.",
+		"item_4": "Create your personal store in minutes.",
+		"item_5": "Sell your products or services easily.",
+		"item_6": "As easy to use as any social network.",
+		"item_7": "The best platform to monetize your personal brand.",
+		"item_8": "Receive payments with debit cards, credit cards, and custom payment methods."
+	},
+	"fit_for_you": "It's fit for you if you are a",
+	"fit_for": {
+		"actor": "Actor | Actress",
+		"artist": "Artist",
+		"comedian": "Comedian",
+		"content_creator": "Content Creator",
+		"designer": "Designer",
+		"entrepreneur": "Entrepreneur",
+		"freelancer": "Freelancer",
+		"musician": "Musician",
+		"smb": "SMB"
+	},
+	"trusted_by_thousands": "Trusted by thousands",
+	"of_entrepreneurs": "of entrepreneurs around the world!",
+	"price_banner": {
+		"the_best_part": "And the best part...",
+		"all_for_just": "All of this for just",
+		"billing_cycle": "Billing Cycle",
+		"monthly": "monthly",
+		"yearly": "yearly",
+		"one_month_free_with_yearly": "Get one month free with yearly plan"
+	},
+	"footer": {
+		"about_us": "About Us",
+		"terms_of_service": "Terms of Service",
+		"privacy_policy": "Privacy Policy",
+		"contact": "Contact",
+		"all_rights_reserved": "All rights reserved"
+	}
 }
