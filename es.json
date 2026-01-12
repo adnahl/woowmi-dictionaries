@@ -102,5 +102,7 @@
 		"contact": "Contacto",
 		"all_rights_reserved": "Todos los derechos reservados"
 	},
-	"select_language": "Seleccionar idioma"
+	"select_language": "Seleccionar idioma",
+	"coming_soon": "¡Próximamente!",
+	"back_home": "Volver a Inicio"
 }
